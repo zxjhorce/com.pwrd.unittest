@@ -1,0 +1,9 @@
+{
+  "name": "com.pwrd.unittest",
+  "version": "1.0.1",
+  "description": "this is unit test",
+  "author": "zxj",
+  "dependencies": {
+	"com.unity.test-framework": "1.1.11"
+  }
+}
